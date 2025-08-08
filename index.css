@@ -9,10 +9,12 @@ div {
   height: 100vh;
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  gap: 3rem;
   align-items: center;
   background-color: black;
 }
 
 h1 {
-  color: red;
+  color: gold;
 }
